@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.logo {
+    height: 55px;
+    margin: 1px 40px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:100px;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+nav ul li {
+    display: flex;
+    margin: 10px 10px;
+    padding: 6px 10px;
+}
+ul li:hover {
+    background-color:rgb(5, 48, 48);
+    color: white;
+}
+.ones {
+    background-color:rgb(5, 48, 48);
+    color: white;
+}
+.ones ul{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.ones ul li{
+    display:flex;
+    margin: 8px 8px;
+    padding: 8px 8px;
+}
+.ones ul li:hover{
+    background-color:rgb(23, 95, 95);
+}
+.banner2 {
+    height: 100%;
+    margin: -99px 275px;
+}
+div{
+    display: block;
+    unicode-bidi: isolate;
+}
+.apollo{
+    height:100% ;
+    width: 200px;
+    margin: 50px;
+}
+.baby{
+    height: 100%;
+    margin: 48px 61px;
+    width: 200px;
+}
+.summer{
+    height: 100%;
+    margin: 45px 47px;
+    width:200px;
+}
+.personal{
+    height: 100%;
+    margin:43px 55px ;
+    width: 200px;
+}
+.drinks{
+    height: 100%;
+    margin: 41px 52px;
+    width: 200px;
+}
+.skin{
+    height: 100%;
+    margin: 40px 45px;
+    width: 200px;
+}
+.one{
+    margin:-222px -119px;
+    padding: 10%;
+    font-size: x-large;
+}
+.two{
+    margin: -395px 229px;
+    padding: 10%;
+    font-size: x-large;
+}
+.three{
+    margin: 0px 500px;
+    padding: 10%;
+    font-size: x-large;
+}
+.four{
+    margin: -212px 695px;
+    padding: 0;
+    font-size: x-large;
+    text-align: end;
+}
+.five{
+    margin: 185px 358px;
+    padding: 0;
+    font-size: x-large;
+    text-align: end;
+}
+.six{
+    margin: -239px 92px;
+    padding: 0px;
+    font-size: x-large;
+    text-align: end;
+}
+.women{
+    height: 100%;
+    width: 200px;
+    margin: 334px 50px;
+}
+.protein{
+    height: 100%;
+    width: 200px;
+    margin: 333px 55px;
+}
+.multi{
+    height: 100%;
+    width: 200px;
+    margin: 330px 50px;
+}
+.test{
+    height: 100%;
+    width: 200px;
+    margin: 327px 55px;
+}
+.health{
+    height: 100%;
+    width: 200px;
+    margin: 325px 55px;
+}
+.ayurveda{
+    height: 100%;
+    width: 200px;
+    margin: 324px 45px;
+}
+.seven{
+    margin: -509px -106px;
+    padding: 10%;
+    font-size: x-large;
+}
+.eight{
+    margin: 112px 203px;
+    padding: 10%;
+    font-size: x-large;
+}
+.nine{
+    margin: -532px 516px;
+    padding: 10%;
+    font-size: x-large;
+}
+.ten{
+    margin: 138px 508px;
+    padding: 10%;
+    font-size: x-large;
+    text-align: end;
+}
+.eleven{
+    margin: -556px 193px;
+    padding: 10%;
+    font-size: x-large;
+    text-align: end;
+}
+.twelve{
+    margin: 159px -83px;
+    padding: 10%;
+    font-size: x-large;
+    text-align: end;
+}
+.twice{
+    text-align: center;
+    font-size: xxx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: -245px;
+}
+.p1{
+    height: 100%;
+    width: 300px;
+    margin: 555px 45px;
+}
+.p2{
+    height: 100%;
+    width: 300px;
+    margin: 550px 93px;
+}
+.p3{
+    height: 100%;
+    width: 300px;
+    margin: 546px 98px;
+}
+.p4{
+    height: 100%;
+    width: 300px;
+    margin: 545px 55px;
+}
+.a1{
+    margin: -738px -109px;
+    padding: 10%;
+    font-size:x-large;
+}
+.b1{
+    margin: 568px 160px;
+}
+.a2{
+    margin: -805px 345px;
+    padding: 10%;
+    font-size: x-large;
+}
+.b2{
+    margin: 629px 598px;
+}
+.a3{
+    margin: -858px 418px;
+    padding: 10%;
+    font-size: x-large;
+    text-align: end;
+}
+.b3  {
+    margin: 675px 677px;
+    text-align: end;
+}
+.a4{
+    margin: -901px -22px;
+    padding: 10%;
+    font-size: x-large;
+    text-align: end;
+}
+.b4{
+    margin:717px 215px ;
+    text-align: end;
+}
+.footer{
+    height: 110px;
+    margin: 60px 110px;
+}
+.last{
+    font-size: xx-large;
+    text-align:center;
+    margin: -190px 0px;
+}
+.app{
+    height: 100%;
+    width: 500px;
+    margin: 186px 662px;
+}
+.last2{
+    font-size: x-large;
+    text-align: end;
+    margin: -369px 276px;
+}
+.insta{
+    height: 100%;
+    width: 100px;
+    margin: 410px 1468px;
+}
+.login{
+    background-color:rgb(20, 102, 102); 
+    color: white;
+}
+.login:hover{
+    color: black;
+    background-color: blanchedalmond;
+}
